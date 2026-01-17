@@ -11,5 +11,5 @@ while is_continue:
         print("Thank you for Playing")
         is_continue = False
     else:
-        print("Invalid Choice")
+        print("Invalid Choice please input valid choice")
        
