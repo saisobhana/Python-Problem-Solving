@@ -1,7 +1,6 @@
 import random
 is_continue = True
-# hrllo
-# try
+# hello
 while is_continue:
     user_input = input("To roll the Dice please enter Y : If you don't want to roll the dice please enter N : ").upper()
     if user_input == "Y":
