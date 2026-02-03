@@ -8,8 +8,8 @@ while is_continue:
         print("First Random Number is",a)
         print("Second Random Number is",b)
     elif user_input == "N":
-        print("Thank you for Playing")
+        print("Thank you for Playing dear user")
         is_continue = False
     else:
-        print("Invalid Choice please input valid choice")
+        print("Invalid Choice please input valid choice dear user")
        
