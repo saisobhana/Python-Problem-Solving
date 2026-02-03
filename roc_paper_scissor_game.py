@@ -12,6 +12,7 @@ def get_user_choice():
     else:
       print('Invalid choice!')
       
+      
 def display_choices(user_choice, computer_choice):
   print(f'You chose {emojis[user_choice]}')
   print(f'Computer chose {emojis[computer_choice]}')
